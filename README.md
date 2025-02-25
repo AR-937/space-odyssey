@@ -1,6 +1,6 @@
 # A Space Odyssey: Using C++ with SFML
 
-This project is a real-time 3D-like space travel simulation implemented in C++ using the **Simple and Fast Multimedia Library (SFML)**. It renders and animates thousands of stars to create an immersive visual experience, simulating movement through space. Inspired by the climiatic scene from the classic space opera, **2001: A Space Odyssey**.
+This project is a real-time 3D-like space travel simulation implemented in C++ using the **Simple and Fast Multimedia Library (SFML)**. It renders and animates thousands of stars to create an immersive visual experience, simulating movement through space. Inspired by the climactic scene from the classic space opera, **2001: A Space Odyssey**.
 
 ## Features
 
