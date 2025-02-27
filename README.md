@@ -15,4 +15,4 @@ This project is a real-time 3D-like space travel simulation implemented in C++ u
   
 ## Demo
 
-![Build 2025 02 27 - 21 19 30 04](https://github.com/user-attachments/assets/4b523a0f-5593-45da-a2dd-60a759d2ce3f)
+![Build 2025 02 27 - 21 19 30 04](https://github.com/user-attachments/assets/0627a636-2993-400a-8205-fc782b293a1f)
