@@ -13,8 +13,6 @@ This project is a real-time 3D-like space travel simulation implemented in C++ u
 -  **Interactive Controls**: Allow users to control the camera and adjust the simulation in real-time.
 -  **Advanced Effects**: Add particle effects, nebulae, and other celestial objects for a more immersive experience.
   
-## Screenshot
-
-![Screenshot (16)](https://github.com/user-attachments/assets/25335ac7-9893-428b-9bca-9f0dc7f50052)
+## Demo
 
 ![Build 2025 02 27 - 21 19 30 04](https://github.com/user-attachments/assets/8ac52419-0478-4594-b8cb-15d0b48dc622)
