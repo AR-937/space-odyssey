@@ -1,4 +1,29 @@
 /out/
 /.vs/
 
+# Build files and directories
+bin/
+build/
+cmake-build-debug/
+CMakeFiles/
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+*.dll
+*.dylib
+
+# IDE folders
+.idea/
+.vscode/
+*.swp
+*~
+
+# Generated files
+CMakeCache.txt
+compile_commands.json
+Makefile
+
 *.json
